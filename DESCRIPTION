@@ -15,7 +15,9 @@ Imports: magclass(>= 4.40),
          ggplot2,
          magpie4,
          methods,
-         madrat
+         madrat,
+         magrittr,
+         stringr
 URL: https://github.com/pik-piam/remulator, https://doi.org/10.5281/zenodo.2546517
 Encoding: UTF-8
 LazyData: true
